@@ -46,5 +46,3 @@ nodes = get_nodes()
 count = count_viable_pairs(nodes)
 
 print(count)
-
-# 882 is too high
